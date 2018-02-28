@@ -1,0 +1,2 @@
+# Blog-Builder
+I run a very manual blog (yes, on purpose) and recently decided to create separate pages for each of my posts. Rather than write all the html for the pages myself, I want to write a program that features an interface, where I can input the date, the blog post title/subject, and the actual text. The idea is to get the program to write the code for the pages using the input info to fill in variables in the output code.
