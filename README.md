@@ -4,12 +4,3 @@ I run a very manual blog (yes, on purpose) and recently decided to create separa
 I've written a simple python program (four lines of code) that asks for the date, subject heading and blog text, and which outputs the html code that will display the blogpost.
 
 The next version will be able to output the code for a whole page, as opposed to just the code for the blogpost. 
-
-
-#Blog-Builder Prototype
-
-date = input("Date (mm/dd/yy): ")
-heading = input("Heading: ")
-post = input("Post Text Here: ")
-
-print("<p><b>" + date + " - <i>" + heading + "</b></i><br> " + post + "</p>")
